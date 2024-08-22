@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 :root{
-    --cor1:#89004f;
-    --cor2:#c33b80;
-    --cor3:#ff69b4;
-    --cor4:#ffa8d9;
-    --cor5:#ffaeff;
+    --cor1:#D9D0A7;
+    --cor2:#485B73;
+    --cor3:#3D4F73;
+    --cor4:#D9C5AD;
+    --cor5:#8C7E72;
 }
 *{
     padding: 0px;
@@ -27,7 +27,7 @@ header h1{
     padding: 10px;
     margin-top: 1px;
     margin: 15px;
-    color: var(--cor4)
+    color: var(--cor5)
 }
 header a{
     margin-top: 10px;
@@ -38,7 +38,7 @@ header a{
     border: 2px solid;
 }
  header a:hover{
-    color: #ffaeff;
+    color: var(--cor5);
     font-size: 18px;
     box-shadow: 1px var(--cor4);
 }
