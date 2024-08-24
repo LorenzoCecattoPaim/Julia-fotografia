@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (max-width:768px) {
+    #loja{
+        display: none;
+    }
+    
+}
+
+
+
+
+@media screen and (min-width:962px) {
+    nav{
+        display: flex;
+        justify-content: center;
+    }
+    article{
+        margin-left: 90px;
+    }
+}
