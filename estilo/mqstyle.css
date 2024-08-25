@@ -1,8 +1,29 @@
 @charset "UTF-8";
 
-@media screen and (max-width:768px) {
+@media screen and  (min-width:692px) and (max-width:775px){
     #loja{
         display: none;
+    }
+    header a{
+        font-size: 1.1em;
+        padding: 10px;
+        margin: 10px;
+    }
+    #home{
+        margin-left:140px ;
+    }
+    p{
+        margin-left: 30px;
+    }
+    #imgdei{
+        content: url(../Imagens/Loja.png);
+    }
+    #imgdei{
+        width: 350px;
+        display: inline-block;
+        margin: auto;
+        padding: 50px;
+        padding-left: 200px;
     }
     
 }
@@ -12,10 +33,15 @@
 
 @media screen and (min-width:962px) {
     nav{
-        display: flex;
-        justify-content: center;
+        display: block;
+        margin: auto;
     }
     article{
         margin-left: 90px;
+    }
+
+    header a{
+       font-size: 1.2em; 
+       margin: 20px;
     }
 }

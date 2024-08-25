@@ -13,6 +13,7 @@ Expressão artística: Criar obras de arte e comunicar ideias e sentimentos atra
 Desenvolvimento de habilidades: Aprimorar a criatividade, o olhar para o mundo e a técnica fotográfica.
 Relaxamento e prazer: Desfrutar da atividade em si, explorando novos lugares e experimentando diferentes técnicas.
 Conexão com o mundo: Observar e registrar a beleza da natureza, a vida urbana e as pessoas.
+
 Para quem aprecia as fotos:
 
 Compartilhamento de experiências: Reviver momentos especiais e compartilhar memórias com outras pessoas.
@@ -23,7 +24,7 @@ Entretenimento e relaxamento: Desfrutar da beleza das imagens e se conectar com 
 Além disso, a fotografia pode ser uma ferramenta poderosa para documentar a história, promover a justiça social e defender causas importantes
 
 
-/*
+<!--
 <form action="cadastro.php" method="post" autocomplete="on">
             <fieldset>
                 <legend>Perguntas para me ajudar</legend>
@@ -59,5 +60,4 @@ Além disso, a fotografia pode ser uma ferramenta poderosa para documentar a his
                 </p>
             </fieldset>
         </form>
-    </main>
-*/
+    </main>-->
