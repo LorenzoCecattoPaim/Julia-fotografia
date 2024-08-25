@@ -15,7 +15,8 @@
 header{
     background-color: var(--cor1);
     padding: 10px;
-    height: 25vh;
+    height: 25dvh;
+    width: 100dvw;
 }
 h2#quemsou{
     text-align: center;
