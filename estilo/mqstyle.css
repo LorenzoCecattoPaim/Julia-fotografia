@@ -30,12 +30,15 @@
 
 @media screen and (max-width:692px) {
     header{
-        height:17vh;
+        height:150px;
     }
 }
 
 
 @media screen and (min-width:962px) {
+    body{
+        font-size: 1.09em;
+    }
     nav{
         display: block;
         margin: auto;
@@ -56,5 +59,8 @@
     nav{
         display: flex;
         justify-content: center;
+    }
+    section{
+        font-size: 1.1em;
     }
 }
