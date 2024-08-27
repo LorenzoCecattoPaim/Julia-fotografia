@@ -38,6 +38,7 @@ header a{
     text-decoration: none;
     color: var(--cor3);
     border: 2px solid;
+    margin-bottom: 5px;
 }
  header a:hover{
     color: var(--cor5);

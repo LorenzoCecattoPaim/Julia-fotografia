@@ -28,7 +28,11 @@
     
 }
 
-
+@media screen and (max-width:692px) {
+    header{
+        height: 25vh;
+    }
+}
 
 
 @media screen and (min-width:962px) {
