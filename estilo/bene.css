@@ -21,6 +21,7 @@ header{
     background-color: var(--cor1);
     height: 25vh;
     padding-left: 20px;
+    padding-bottom: 30px;
     margin-bottom: 15px;
 }
 header h1{
